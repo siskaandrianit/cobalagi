@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">CAROT</string>
+    <string name="email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="action_sign_in_short">REGISTER</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="btn_link_to_register">Not a Member? Register Now!</string>
+    <string name="hint_email">Email</string>
+    <string name="btn_link_to_login">A Member? Login Now!</string>
+    <string name="minimum_password">Password is too short, enter minimum 6 characters!</string>
+
+    //Info-Kue
+    <string name="judul_info1">Bika Ambon From Medan</string>
+    <string name="isi_info1">Bika Ambon is a flat yellow cake, whose surface looks like the pores of a human skin, and the bottom is hard, the rest of the heat is placed on the bottom of the pan. Bika Ambon is usually served in square pieces.
+        When eaten, legit flavors are mixed with a chewy sensation on the tongue. The fragrant aroma of pandanus.</string>
+
+    <string name="judul_info2">Bakpia From Yogyakarta</string>
+    <string name="isi_info2">Bakpia is originally from China, originally named Tou Luk Pia, which means green bean pia (cake) cake. In addition, bakpia began to be produced in the Patok village of Yogyakarta, since around 1948. At that time, it was still traded in retail, packed in labels without labels, the demand was still very limited. The process continued until it changed with paperboard packaging accompanied by a label.</string>
+
+
+    <string name="judul_info3">Cake Roll From Surabaya</string>
+    <string name="isi_info3">Surabaya Roll Cake is the latest and unique souvenir from Surabaya. This gift feels so special, because it is available in many variants, ranging from vanilla flavored cake variants, pandanus flavored cakes, and chocolate-flavored cakes. For Filling, there are jam meises, durian, cheese, pineapple, strawberry, vanilla buttercream, chocolate buttercream</string>
+
+
+    <string name="judul_info4">Lemang From Karo</string>
+    <string name="isi_info4">Lemang or in Karo is called rires, can be enjoyed with a variety of complementary sauces. In the durian season, the sauce will be mixed with durian. But the Karo people are usually eaten with sauces called tengguli, made from brown sugar.</string>
+
+
+    <string name="judul_info5">Pinyaram From Padang</string>
+    <string name="isi_info5">West Sumatra has a lot of traditional snacks that taste very tasty and one of the very typical snacks named Kue Pinyaram and generally these cakes are made while welcoming holidays and special celebrations. Pinyaram cake is made from a mixture of sugar area, white fallow flour or black rice flour and coconut milk.</string>
+
+    <string name="judul_info6">Selat Putri Cake From Kalimantan</string>
+    <string name="isi_info6">Selat Putri Cake is known as a traditional traditional Banjar cake, South Kalimantan. This characteristic cake consists of three layers of cake in green, brown and white. Green layer from the use of suji leaf water, brown from brown sugar, and white from coconut milk and rice flour. The use of coconut milk is very dominant, which is needed for all layers of cake.</string>
+
+    <string name="judul_info7">Pinende Cake From Manado</string>
+    <string name="isi_info7">Pinende Cake is one of the traditional cakes from Manado. The basic ingredients for making it are sticky rice flour, hot water, salt, and grated coconut. The top of this cake is given brown sugar syrup.
+        This sweet snack deserves to be enjoyed in the morning while having a cup of warm tea.</string>
+
+    <string name="judul_info8">Manco Cake From Madiun</string>
+    <string name="isi_info8">This one-of-a-kind Madiun East Java food is called manco cake,
+        which is a typical Madiun snack made from sticky rice. This manco cake is a legacy from the ancestors whose myth is that snacks cannot be made in any area other than in their native village, namely Tambak Mas Village.</string>
+
+    <string name="judul_info9">Pie Cake From Bali</string>
+    <string name="isi_info9">Bali Milk Pie is a typical snack that is usually a special gift when on vacation in Bali. Small disc-shaped pie with a good taste of milk on the tongue. Our artificial Milk Pie does not use sugar or no artificial sweeteners, without preservatives, HALAL and with thicker flats, it feels melted on the tongue and the price is also cheap.
+        Our Milk Pie can be sent to the hotel, please contact us for more information.</string>
+
+    <string name="judul_info10">Lapis Talas Cake From Bogor</string>
+    <string name="isi_info10">Already, in the past, taro was known as one of the unique souvenirs of the City of Bogor in its form and consisted of several pieces in a bundle. But now, taro which is quite identical to rural specialties has begun to be developed into several processed products that can increase the selling value and different tastes of taro..</string>
+
+
+
+    //ResepKue
+    <string name="judul_resep1">Password too short, enter minimum 6 characters!</string>
+    <string name="isi_resep1">Password too short, enter minimum 6 characters!</string>
+    <string name="ket_resep1">Password too short, enter minimum 6 characters!</string>
+
+    <string name="judul_resep2">Password too short, enter minimum 6 characters!</string>
+    <string name="isi_resep2">Password too short, enter minimum 6 characters!</string>
+    <string name="ket_resep2">Password too short, enter minimum 6 characters!</string>
+
+    <string name="judul_resep3">Password too short, enter minimum 6 characters!</string>
+    <string name="isi_resep3">Password too short, enter minimum 6 characters!</string>
+    <string name="ket_resep3">Password too short, enter minimum 6 characters!</string>
+
+    <string name="judul_resep4">Password too short, enter minimum 6 characters!</string>
+    <string name="isi_resep4">Password too short, enter minimum 6 characters!</string>
+    <string name="ket_resep4">Password too short, enter minimum 6 characters!</string>
+
+    <string name="judul_resep5">Password too short, enter minimum 6 characters!</string>
+    <string name="isi_resep5">Password too short, enter minimum 6 characters!</string>
+    <string name="ket_resep5">Password too short, enter minimum 6 characters!</string>
+
+    //AboutUs
+    <string name="about_us">
+        With a sense of pride and confidence our group is able to complete this simple application,
+        to fulfill the final assignment requirements in the Mobile Device Application Programming course.
+        Hopefully in the future this application can continue to be developed and can provide tangible benefits to the community.
+        \ NFurthermore, \ allow our group to introduce ourselvesWith a sense of pride and confidence our group is able to complete
+        this simple application, to fulfill the final assignment requirements in the Mobile Device Application Programming course.
+        Hopefully in the future this application can continue to be developed and can provide tangible benefits to the community.
+        \ NFurthermore, \ allow our group to introduce themselves</string>
+    <string name="title_activity_maps">Map</string>
+
+    //Maps
+        <string name="app">Carot</string>
+        <string name="maps">Map</string>
+        <string name="normal_map">normal_map</string>
+        <string name="hybrid_map">hybrid_map</string>
+        <string name="satellite_map">satellite_map</string>
+        <string name="terrain_map">terrain_map</string>
+
+
+</resources>
+
